@@ -16,3 +16,9 @@ For more information about Markdown syntax, see the [Markdown Cheat Sheet](https
 Another change.
 
 Another change. We're practicing branch operations.
+
+
+Run the RPS Game
+```sh
+python app/rps.py
+```
